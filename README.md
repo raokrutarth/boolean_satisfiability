@@ -7,9 +7,13 @@
 ### \<inputFile\> is the text file with the problem in the format:###
 
 Problem Name (any alphanumeric string)
+
 n m           ( n = no. of variables, m = no. of clauses)
-clauses...
+
+clauses
+
 ...
+
 ...
 
 ## t01 - t07.dat are sample input files ##
