@@ -8,12 +8,12 @@
 
 Problem Name (any alphanumeric string)
 
-n m           ( n = no. of variables, m = no. of clauses)
+>n m           ( n = no. of variables, m = no. of clauses)
 
-clauses
+>clauses
 
-...
+>...
 
-...
+>...
 
 ## t01 - t07.dat are sample input files ##
