@@ -1,8 +1,8 @@
 # Java project to create a solver for the The Boolean Satisﬁability Problem #
 ## See "DESCRIPTION.pdf" for project details ##
 
-1. compile using javac
-2. run using "java Main <inputFile>"  
++ compile using javac
++ run using "java Main <inputFile>"  
 
 ### <inputFile> is the text file with the problem in the format:###
 
