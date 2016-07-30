@@ -1,9 +1,6 @@
 /**
  * Created by Krutarth Rao on 10/15/2015.
- * PUID: 0027262283
- * PSO: P05
- * * Collaborations: verbal discussion of solution during office hour 
- *                 with other students
+ * Collaboration: verbal discussion of solution during office hour
  */
 public class Test
 {
