@@ -20,5 +20,7 @@ _problem_name = any alphanumeric string_
 
 _n = no. of variables, m = no. of clauses_
 
+_... = caluse_
+
 
 ## t01 - t07.dat are sample input files ##
