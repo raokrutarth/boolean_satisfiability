@@ -16,13 +16,6 @@ public class Main
         String variables = new String();
         boolean nameSet = false;
 
-        /*String[] input = new String[800];
-        int i = 0;
-        while( in.hasNextLine() )
-        {
-            input[i] = in.nextLine();
-            i++;
-        }*/
         String line;
         String nextLine;
         line = in.nextLine();
